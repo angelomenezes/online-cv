@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: angelomenezes.eng@gmail.com
+    email: agaranga@lakeheadu.ca
     phone: +55 (79) 99159-6418
     website:
     linkedin: angelomenezes12
@@ -58,8 +58,8 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science (Sponsored Visitor Student)
-      university: ICMC - Universit of Sao Paulo
+    - degree: MSc in Computer Science (Visitor Student/Researcher)
+      university: ICMC - University of Sao Paulo
       time: 2019 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -84,7 +84,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Mechanical Engineering (Sponsored Visitor Student)
+    - degree: BSc in Mechanical Engineering (Visitor Student/Researcher)
       university: Lakehead University
       time: 2014 - 2015
       details: |
@@ -222,7 +222,7 @@ skills:
         level: 85%
 
       - name: C / C++
-        level: 80%
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
