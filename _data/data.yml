@@ -58,7 +58,7 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science (Visitor Student/Researcher)
+    - degree: MSc in Computer Science (Visitor Student)
       university: ICMC - University of Sao Paulo
       time: 2019 - 2019
       details: |
@@ -84,7 +84,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Mechanical Engineering (Visitor Student/Researcher)
+    - degree: BSc in Mechanical Engineering (Visitor Student)
       university: Lakehead University
       time: 2014 - 2015
       details: |
