@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -49,13 +49,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I'm passionate about learning new technologies and how machine learning
 
 education:
     - degree: MSc in Computer Science (Visitor Student/Researcher)
@@ -111,48 +105,38 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Project Engineer (remote)
+      time: 08/2017 - Present
+      company: Industrieberatung Krüger - IBK, Aracaju, Brazil / Cottbus, Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - Managed a group of two engineering interns and a technician to develop
+        state-of-the-art programmable electronic instruments for applications in the
+        German automation industry.
+        - Programmed the programmable electronic microprocessor in C, C++, and Python.
+        - Programmed PLCs using ladder and functional block.
+        - Wrote the documentation for all the programmable modules.
+        - Designed different Human-Machine Interfaces for automation systems.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Engineer Internship
+      time: 04/2017 - 07/2017
+      company: Industrieberatung Krüger - IBK, Aracaju/Cottbus
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Developed the electronics behind a module for voltage conversion
+        based on motor inclination in less than 4 months.
+        - Developed an internal library in C++ for applying 1D Kalman filtering
+        in angle/acceleration data.
+        - Programmed the conversion module MCUs (Atmega and PIC) in C and C++.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research Associate
+      time: 08/2015 - 08/2016
+      company: Laboratory for Intelligent Mechatronics Systems, Lakehead University, Thunder Bay
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Developed the electronics and software behind a smart sensor system for
+        3D automatic acceleration/vibration measurement with high bandwidth and
+        measurement ranges for the water treatment plant of Thunder Bay.
+        - Programmed the smart sensor MCU (ATMEGA and PIC) in C and C++.
+        - Developed a user interface in C# for the smart sensor system.
 
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
