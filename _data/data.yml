@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Angelo Menezes
-    tagline: ML Engineer
+    tagline: Project Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -37,7 +37,6 @@ sidebar:
       - idiom: French
         level: Beginner
 
-
     interests:
       - item: Running
         link:
@@ -49,85 +48,72 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm passionate about learning new technologies and how machine learning
+      Hello there! I'm a Mechatronics Engineer currently studying for a master's degree in 
+      Computer Science with focus in applied machine learning. 
+      I'm passionate about learning new technologies, developing research with social impact,
+      and dismistifying/democratizing AI research in Brazil.
 
 education:
     - degree: MSc in Computer Science (Visitor Student)
-      university: ICMC - University of Sao Paulo
+      university: University of Sao Paulo, Brazil
       time: 2019 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe ...
 
           - Bullet point
           - Bullet point
 
     - degree: MSc in Computer Science
-      university: Federal University of Sergipe
+      university: Federal University of Sergipe, Brazil
       time: 2018 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe ...
 
           - Bullet point
           - Bullet point
 
     - degree: BSc in Mechanical Engineering (Visitor Student)
-      university: Lakehead University
+      university: Lakehead University, Canada
       time: 2014 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe ...
 
           - Bullet point
           - Bullet point
 
     - degree: BSc in Mechatronics Engineering
-      university: Tiradentes University
+      university: Tiradentes University, Brazil
       time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Describe ...
 
           - Bullet point
           - Bullet point
 
 experiences:
-    - role: Project Engineer (remote)
+    - role: Project Engineer (partially remote)
       time: 08/2017 - Present
-      company: Industrieberatung Krüger - IBK, Aracaju, Brazil / Cottbus, Germany
+      company: Industrieberatung Krüger - IBK, Cottbus, Germany / Aracaju, Brazil
       details: |
         - Managed a group of two engineering interns and a technician to develop
         state-of-the-art programmable electronic instruments for applications in the
         German automation industry.
-        - Programmed the programmable electronic microprocessor in C, C++, and Python.
-        - Programmed PLCs using ladder and functional block.
+        - Programmed the modules' microprocessor in C, C++, and Python.
+        - Programmed PLCs using ladder and functional blocks.
         - Wrote the documentation for all the programmable modules.
         - Designed different Human-Machine Interfaces for automation systems.
 
     - role: Engineer Internship
       time: 04/2017 - 07/2017
-      company: Industrieberatung Krüger - IBK, Aracaju/Cottbus
+      company: Industrieberatung Krüger - IBK, Cottbus, Germany / Aracaju, Brazil
       details: |
-        - Developed the electronics behind a module for voltage conversion
+        - Developed the electronics and documentation behind a module for voltage conversion
         based on motor inclination in less than 4 months.
         - Developed an internal library in C++ for applying 1D Kalman filtering
         in angle/acceleration data.
         - Programmed the conversion module MCUs (Atmega and PIC) in C and C++.
 
-    - role: Research Associate
+    - role: Research Associate (partially remote)
       time: 08/2015 - 08/2016
       company: Laboratory for Intelligent Mechatronics Systems, Lakehead University, Thunder Bay
       details: |
@@ -141,9 +127,6 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Velocity
@@ -169,22 +152,19 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Supervised Learning in the Context of Educational Data Mining to Avoid University Students Dropout"
+        authors: Kelly J. de O. Santos, Angelo G. Menezes, Andre B. de Carvalho, and Carlos A. E. Montesco
+        conference: "18th IEEE International Conference on Advanced Learning Technologies (ICALT 2019)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Automatic speech recognition using Support Vector Machine and Particle Swarm Optimization"
+        authors: Gracieth C. Batista, Washington L. S. Silva, and Angelo G. Menezes
+        conference: "IEEE Symposium Series on Computational Intelligence (SSCI 2016), 1-7"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Finding trendsetters on yelp dataset"
+        authors: Pierfrancesco Cervellini, Angelo G. Menezes, and Vijay K. Mago
+        conference: "IEEE Symposium Series on Computational Intelligence (SSCI 2016), 1-7"
 
 skills:
     title: Skills &amp; Proficiency
