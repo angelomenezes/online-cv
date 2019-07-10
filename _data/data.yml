@@ -129,9 +129,9 @@ projects:
     intro: >
 
     assignments:
-        - title: 3D Face Reconstruction from Low-Resolution
-        link: "https://github.com/angelomenezes/3DFaceReconstruction"
-        tagline: "An implementation of a 3D face reconstruction model that extracts depth directly from low-resolution images."
+      - title: 3D Face Reconstruction from Low-Resolution
+      link: "https://github.com/angelomenezes/3DFaceReconstruction"
+      tagline: "An implementation of a 3D face reconstruction model that extracts depth directly from low-resolution images."
 
       - title: Image Processing
         link: "https://github.com/angelomenezes/Image_Processing"
