@@ -38,20 +38,20 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Running
+      - item: Surfing
         link:
 
-      - item: Surfing
+      - item: Running
         link:
 
 
 career-profile:
     title: Career Profile
     summary: |
-      Hello there! I'm a Mechatronics Engineer with experience in embedded systems/project management, who is migrating
-      to the field of AI. I'm also currently studying for a master's degree in Computer Science with focus in
-      applied Machine Learning. My passions are learning new technologies, developing research with social impact,
-      and dismistifying AI research.
+      Hello there! I'm a mechatronics engineer with experience in developing embedded systems and software, who is migrating
+      to the field of data science. I'm also currently studying for a master's degree in Computer Science with focus in
+      applied machine learning. My passions are learning new technologies, developing research with social impact,
+      and dismistifying AI technology.
 
 education:
     - degree: MSc in Computer Science (Visitor Student)
@@ -129,7 +129,7 @@ projects:
     intro: >
 
     assignments:
-      - title: 3D Face Reconstruction from Low-Resolution
+      - title: 3D Face Reconstruction
         link: "https://github.com/angelomenezes/3DFaceReconstruction"
         tagline: "An implementation of a 3D face reconstruction model that extracts depth directly from low-resolution images."
 
@@ -139,7 +139,7 @@ projects:
 
       - title: Sepsis Detection
         link: "#"
-        tagline: "A notebook for sepsis detection based on medical examinations and vital signs of pacients."
+        tagline: "An exploratory notebook developed for detecting Sepsis cases based on medical examinations and vital signs of patients."
 
       - title: AVR Libraries
         link: "https://github.com/angelomenezes/AVRLibraries"
