@@ -48,8 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hello there! I'm a Mechatronics Engineer with experience in embedded systems/project management, who is migrating 
-      to the field of AI. I'm also currently studying for a master's degree in Computer Science with focus in 
+      Hello there! I'm a Mechatronics Engineer with experience in embedded systems/project management, who is migrating
+      to the field of AI. I'm also currently studying for a master's degree in Computer Science with focus in
       applied Machine Learning. My passions are learning new technologies, developing research with social impact,
       and dismistifying AI research.
 
@@ -130,8 +130,8 @@ projects:
 
     assignments:
       - title: 3D Face Reconstruction from Low-Resolution
-      link: "https://github.com/angelomenezes/3DFaceReconstruction"
-      tagline: "An implementation of a 3D face reconstruction model that extracts depth directly from low-resolution images."
+        link: "https://github.com/angelomenezes/3DFaceReconstruction"
+        tagline: "An implementation of a 3D face reconstruction model that extracts depth directly from low-resolution images."
 
       - title: Image Processing
         link: "https://github.com/angelomenezes/Image_Processing"
