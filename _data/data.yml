@@ -49,7 +49,7 @@ career-profile:
     title: Career Profile
     summary: |
       Hello there! I'm a mechatronics engineer with experience in developing embedded systems and software, who is migrating
-      to the field of data science. I'm also currently studying for a master's degree in Computer Science with focus in
+      to the field of data science. I'm also currently pursuing a master's degree in Computer Science with focus in
       applied machine learning. My passions are learning new technologies, developing research with social impact,
       and dismistifying AI technology.
 
@@ -100,8 +100,8 @@ experiences:
         German automation industry.
         - Programmed the modules' microprocessor in C, C++, and Python.
         - Programmed PLCs using ladder and functional blocks.
-        - Wrote the documentation for all the programmable modules.
         - Designed different Human-Machine Interfaces for automation systems.
+        - Wrote the documentation for all the programmable modules.
 
     - role: Engineer Internship
       time: 04/2017 - 07/2017
