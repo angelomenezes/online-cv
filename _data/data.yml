@@ -41,6 +41,9 @@ sidebar:
       - item: Surfing
         link:
 
+      - item: Cooking
+        link:
+
       - item: Running
         link:
 
@@ -100,7 +103,7 @@ experiences:
         German automation industry.
         - Programmed the modules' microprocessor in C, C++, and Python.
         - Programmed PLCs using ladder and functional blocks.
-        - Designed different Human-Machine Interfaces for automation systems.
+        - Designed different Human-Machine Interfaces for several automation systems.
         - Wrote the documentation for all the programmable modules.
 
     - role: Engineer Internship
@@ -108,10 +111,10 @@ experiences:
       company: Industrieberatung Krüger - IBK, Cottbus, Germany / Aracaju, Brazil
       details: |
         - Developed the electronics and documentation behind a module for voltage conversion
-        based on motor inclination in less than 4 months.
+        based on motor inclination in less than 3 months.
         - Developed an internal library in C++ for applying 1D Kalman filtering
         in angle/acceleration data.
-        - Programmed the conversion module MCUs (Atmega and PIC) in C and C++.
+        - Programmed the voltage conversion module MCUs (Atmega and PIC) in C and C++.
 
     - role: Research Associate (partially remote)
       time: 08/2015 - 08/2016
