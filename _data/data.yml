@@ -140,13 +140,13 @@ projects:
         link: "https://github.com/angelomenezes/Image_Processing"
         tagline: "Some image processing algorithms written from scratch for image enhancement, restoration, and segmentation."
 
-      - title: Sepsis Detection
-        link: "#"
-        tagline: "An exploratory notebook developed for detecting Sepsis cases based on medical examinations and vital signs of patients."
-
       - title: AVR Libraries
         link: "https://github.com/angelomenezes/AVRLibraries"
         tagline: "Some small libraries developed for common electronic parts used usually with AVR MCUs."
+
+      - title: Sepsis Detection
+        link: "https://gitlab.com/angelomenezes/sepse-detection/tree/master"
+        tagline: "An exploratory notebook developed for detecting Sepsis cases based on medical examinations and vital signs of patients."
 
 
 publications:
