@@ -165,7 +165,7 @@ publications:
     intro: |
 
     papers:
-      - title: "Deep Learning based Super-Resolution Algorithms for improving Low-Resolution Face Recognition"
+      - title: "Deep Learning based Super-Resolution Algorithms for Improving Low-Resolution Face Recognition"
         authors: Angelo G. Menezes, and Carlos A. E. Montesco
         conference: "Under Review"
       
@@ -196,10 +196,10 @@ skills:
         level: 95%
 
       - name: Pytorch
-        level: 90%
+        level: 95%
 
       - name: Tensorflow/Keras
-        level: 90%
+        level: 95%
 
       - name: R
         level: 85%
