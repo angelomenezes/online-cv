@@ -31,20 +31,20 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Spanish
-        level: Beginner
-
       - idiom: French
         level: Beginner
 
+      - idiom: Spanish
+        level: Beginner
+
     interests:
+      - item: Biking
+        link:
+
       - item: Surfing
         link:
 
       - item: Cooking
-        link:
-
-      - item: Running
         link:
 
 
@@ -52,11 +52,18 @@ career-profile:
     title: Career Profile
     summary: |
       Hello there! I'm a mechatronics engineer with experience in developing embedded systems and software, who is migrating
-      to the field of data science. I'm also currently pursuing a master's degree in Computer Science with focus in
-      applied machine learning. My passions are learning new technologies, developing research with social impact,
-      and dismistifying AI technology.
-
+      to the field of data science. I'm currently a PhD student at University of São Paulo where I research machine learning
+      with focus in continual/lifelong learning.
 education:
+    - degree: PhD in Computer Science and Computational Mathematics
+      university: University of Sao Paulo, Brazil
+      time: 2020 - Current
+      details: |
+        Describe ...
+
+          - Bullet point
+          - Bullet point
+    
     - degree: MSc in Computer Science (Visitor Student)
       university: University of Sao Paulo, Brazil
       time: 2019 - 2019
@@ -132,6 +139,10 @@ projects:
     intro: >
 
     assignments:
+      - title: Face Super-Resolution 
+        link: "https://github.com/angelomenezes/Pytorch_Face_SR"
+        tagline: "Implementation of different face super-resolution algorithms in Pytorch."
+      
       - title: 3D Face Reconstruction
         link: "https://github.com/angelomenezes/3DFaceReconstruction"
         tagline: "An implementation of a 3D face reconstruction model that extracts depth directly from low-resolution images."
@@ -144,9 +155,9 @@ projects:
         link: "https://github.com/angelomenezes/AVRLibraries"
         tagline: "Some small libraries developed for common electronic parts used usually with AVR MCUs."
 
-      - title: Sepsis Detection
-        link: "https://gitlab.com/angelomenezes/sepse-detection/tree/master"
-        tagline: "An exploratory notebook developed for detecting Sepsis cases based on medical examinations and vital signs of patients."
+      #- title: Sepsis Detection
+      #  link: "https://gitlab.com/angelomenezes/sepse-detection/tree/master"
+      #  tagline: "An exploratory notebook developed for detecting Sepsis cases based on medical examinations and vital signs of patients."
 
 
 publications:
@@ -154,6 +165,10 @@ publications:
     intro: |
 
     papers:
+      - title: "Deep Learning based Super-Resolution Algorithms for improving Low-Resolution Face Recognition"
+        authors: Angelo G. Menezes, and Carlos A. E. Montesco
+        conference: "Under Review"
+      
       - title: "Automatic Attendance Management System based on Deep One-Shot Learning"
         authors: Angelo G. Menezes, Joao M. D. da C. Sá, Eduardo Llapa, and Carlos A. E. Montesco
         conference: "Under Review"
