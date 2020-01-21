@@ -32,7 +32,7 @@ sidebar:
         level: Fluent
 
       - idiom: French
-        level: Beginner
+        level: Intermediate
 
       - idiom: Spanish
         level: Beginner
@@ -64,7 +64,7 @@ education:
           - Bullet point
           - Bullet point
     
-    - degree: MSc in Computer Science (Visitor Student)
+    - degree: MSc in Computer Science (Visiting Student)
       university: University of Sao Paulo, Brazil
       time: 2019 - 2019
       details: |
@@ -82,7 +82,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Mechanical Engineering (Visitor Student)
+    - degree: BSc in Mechanical Engineering (Visiting Student)
       university: Lakehead University, Canada
       time: 2014 - 2015
       details: |
