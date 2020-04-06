@@ -161,7 +161,7 @@ projects:
 
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
 
     papers:
@@ -171,7 +171,7 @@ publications:
       
       - title: "Automatic Attendance Management System based on Deep One-Shot Learning"
         authors: Angelo G. Menezes, Joao M. D. da C. Sá, Eduardo Llapa, and Carlos A. E. Montesco
-        conference: "Under Review"
+        conference: "27th International Conference on Systems, Signals and Image Processing (IWSSIP 2020) (In press)"
 
       - title: "Supervised Learning in the Context of Educational Data Mining to Avoid University Students Dropout"
         authors: Kelly J. de O. Santos, Angelo G. Menezes, Andre B. de Carvalho, and Carlos A. E. Montesco
@@ -197,14 +197,14 @@ skills:
 
       - name: Pytorch
         level: 95%
-
+1
       - name: Tensorflow/Keras
         level: 95%
 
-      - name: R
-        level: 85%
-
       - name: C / C++
+        level: 90%
+
+      - name: R
         level: 85%
 
 footer: >
