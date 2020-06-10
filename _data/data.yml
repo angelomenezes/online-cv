@@ -52,7 +52,7 @@ career-profile:
     title: Career Profile
     summary: |
       Hello there! I'm a mechatronics engineer with experience in developing embedded systems and software, who is migrating
-      to the field of data science. I'm currently a PhD student at University of São Paulo where I research machine learning
+      to the field of machine learning. I'm currently a PhD student at University of São Paulo where I research machine learning
       with focus in continual/lifelong learning.
 education:
     - degree: PhD in Computer Science and Computational Mathematics
@@ -111,6 +111,7 @@ experiences:
         - Programmed the modules' microprocessor in C, C++, and Python.
         - Programmed PLCs using ladder and functional blocks.
         - Designed different Human-Machine Interfaces for several automation systems.
+	- Designed computer vision pipelines with limited hardware (Raspberry Pi Zero W).
         - Wrote the documentation for all the programmable modules.
 
     - role: Engineer Internship
