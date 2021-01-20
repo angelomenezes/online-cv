@@ -102,6 +102,13 @@ education:
           - Bullet point
 
 experiences:
+    - role: Invited Professor
+      time: 10/2020 - 12/2020
+      company: Industry College (IEL/SENAI), Paraná, Brazil
+      details: |
+        - Taught the course "Advanced Topics in Intelligent Systems: Deep Learning" in the 
+        "Big Data and Intelligent Systems'' specialization program.
+
     - role: Project Engineer (partially remote)
       time: 08/2017 - 08/2020
       company: Industrieberatung Krüger - IBK, Cottbus, Germany / Aracaju, Brazil
@@ -143,8 +150,12 @@ projects:
     assignments:
       - title: Face Super-Resolution 
         link: "https://github.com/angelomenezes/Pytorch_Face_SR"
-        tagline: "Implementation of different face super-resolution algorithms in Pytorch."
-      
+        tagline: "Implementation of different face super-resolution algorithms in Pytorch for improving low-resolution face recognition."
+    
+      - title: DICOM Labeling Tool
+        link: "https://github.com/angelomenezes/dicom-labeling-tool"
+        tagline: "Simple web-based app for labeling DICOM files."
+
       - title: 3D Face Reconstruction
         link: "https://github.com/angelomenezes/3DFaceReconstruction"
         tagline: "An implementation of a 3D face reconstruction model that extracts depth directly from low-resolution images."
@@ -167,10 +178,6 @@ publications:
     intro: |
 
     papers:
-      - title: "Deep Learning based Super-Resolution Algorithms for Improving Low-Resolution Face Recognition"
-        authors: Angelo G. Menezes, and Carlos A. E. Montesco
-        conference: "Under Review"
-      
       - title: "Automatic Attendance Management System based on Deep One-Shot Learning"
         authors: Angelo G. Menezes, Joao M. D. da C. Sá, Eduardo Llapa, and Carlos A. E. Montesco
         conference: "27th International Conference on Systems, Signals and Image Processing (IWSSIP 2020)"
