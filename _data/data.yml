@@ -1,14 +1,10 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Angelo Menezes
-    tagline: Software Engineer
+    tagline: ML Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,9 +48,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hello there! I'm a mechatronics engineer with experience in developing embedded systems and software, who is migrating
-      to the field of machine learning. I'm currently a PhD student at University of São Paulo where I research machine learning
-      with focus in continual/lifelong learning.
+      Hello world! My name is Angelo Garangau Menezes, and I'm currently a Ph.D. student at the University of São Paulo, where I research machine learning
+      with a focus in continual/lifelong learning. Previously, I've worked with R&D of embedded systems (software and hardware) in Brazil, Canada, and Germany.
 education:
     - degree: PhD in Computer Science and Computational Mathematics
       university: University of Sao Paulo, Brazil
