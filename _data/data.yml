@@ -145,7 +145,7 @@ projects:
     assignments:
       - title: Automatic Attendance Management via Face Recognition 
         link: "https://github.com/angelomenezes/face-attendance-api"
-        tagline: "An API for automating the process of attendance registration in a classroom using facial recognition."
+        tagline: "An API for automating the process of attendance registration in a classroom using facial recognition. (In Portuguese)"
       
       - title: Face Super-Resolution 
         link: "https://github.com/angelomenezes/Pytorch_Face_SR"
